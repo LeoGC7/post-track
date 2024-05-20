@@ -103,7 +103,7 @@ ul {
 .slide > img {
     display: block;
     width: 500px;
-    height: auto;
+    height: 330px;
     object-fit: cover;
 }
 
