@@ -83,6 +83,7 @@ p {
 }
 
 .link-button {
+    margin-left: 55px;
     -webkit-border-radius: 20;
     -moz-border-radius: 20;
     border-radius: 20px;

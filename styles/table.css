@@ -1,0 +1,38 @@
+* {
+    font-family: "Montserrat", sans-serif;
+}
+
+table {
+    padding: 20px;
+    background: rgb(68,160,255);
+    background: linear-gradient(180deg, rgba(68,160,255,1) 48%, rgba(184,77,255,1) 100%);
+}
+
+th {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    padding: 10px 35px 10px 35px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+
+td {
+    text-align: center;
+    padding: 5px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+a {
+    padding: 5px 20px;
+    color: white;
+    background: #7b2cbb;
+    border-radius: 50px;
+    text-decoration: none;
+}
+
+a:hover {
+    background: #9e3cfa;
+}
